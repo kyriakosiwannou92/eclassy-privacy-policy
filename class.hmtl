@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>eClassy Class – Privacy Policy</title>
+  <meta name="description" content="Privacy policy for the eClassy Class parent mobile application.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <a class="brand" href="index.html">e<span>Classy</span></a>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="teacher.html">eClassy Teacher</a>
+        <a href="mailto:k.ioannouy@bitscy.com?subject=eClassy%20Class%20%E2%80%93%20Privacy">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <article class="card">
+      <h1>eClassy Class – Privacy Policy</h1>
+      <p class="updated">Last updated: May 2026</p>
+
+      <h2>1. Introduction</h2>
+      <p>
+        This privacy policy explains how <strong>eClassy Class</strong> (“we”, “our”, or “us”)
+        collects, uses, and protects your personal information when you use our mobile
+        application for parents and guardians.
+      </p>
+
+      <h2>2. Information we collect</h2>
+      <ul>
+        <li><strong>Account information:</strong> name, phone number, and email address when you register or sign in</li>
+        <li><strong>Child and school data:</strong> information needed to link you to your child’s class (e.g. invite codes), as provided by your teacher or institute</li>
+        <li><strong>Device information:</strong> Firebase Cloud Messaging (FCM) token, device platform (iOS/Android), and app version</li>
+        <li><strong>Usage data:</strong> sign-in activity and in-app notification history</li>
+      </ul>
+
+      <h2>3. How we use your information</h2>
+      <ul>
+        <li>To give you access to homework, announcements, attendance, and payment reminders for linked children</li>
+        <li>To send push notifications about school updates</li>
+        <li>To maintain your account and parent–child links</li>
+        <li>To keep the service secure and reliable</li>
+      </ul>
+
+      <h2>4. Push notifications</h2>
+      <ul>
+        <li>We use <strong>Firebase Cloud Messaging (FCM)</strong> to deliver alerts</li>
+        <li>You can turn off notifications in the app (Settings) or in your device system settings</li>
+        <li>Turning off notifications stops new pushes; messages already shown in the app may remain in your notification history</li>
+      </ul>
+
+      <h2>5. Data sharing</h2>
+      <ul>
+        <li>We share information only with your linked <strong>teachers</strong> and <strong>institute</strong> as needed for school communication</li>
+        <li>We use <strong>Firebase (Google)</strong> for authentication and messaging</li>
+        <li>We do <strong>not</strong> sell your personal data to third parties</li>
+      </ul>
+
+      <h2>6. Data retention and deletion</h2>
+      <ul>
+        <li>You can delete your account from <strong>Settings → Delete account</strong>, which anonymizes personal data on our servers</li>
+        <li>Some records may be kept where required by law or for legitimate school administration</li>
+      </ul>
+
+      <h2>7. Your rights</h2>
+      <p>
+        Depending on your location, you may have rights to access, correct, or delete your
+        personal data. To exercise these rights, contact us using the details below.
+      </p>
+
+      <h2>8. Children</h2>
+      <p>
+        eClassy Class is intended for <strong>parents and guardians</strong>, not for direct use
+        by children. Student information is managed by teachers through eClassy Teacher.
+      </p>
+
+      <h2>9. Security</h2>
+      <p>
+        We use industry-standard measures to protect data in transit and on our servers.
+        No method of transmission over the internet is 100% secure.
+      </p>
+
+      <h2>10. Changes to this policy</h2>
+      <p>
+        We may update this policy from time to time. The “Last updated” date at the top
+        will change when we do. Continued use of the app after changes means you accept
+        the updated policy.
+      </p>
+
+      <h2>11. Contact</h2>
+      <p>
+        For privacy questions or requests:<br>
+        Email: <a href="mailto:k.ioannouy@bitscy.com?subject=eClassy%20Class%20%E2%80%93%20Privacy">k.ioannouy@bitscy.com</a><br>
+        In the app: <strong>Settings → Help &amp; support</strong>
+      </p>
+    </article>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <a href="index.html">All policies</a> ·
+      <a href="teacher.html">eClassy Teacher policy</a> ·
+      <a href="mailto:k.ioannouy@bitscy.com">k.ioannouy@bitscy.com</a>
+    </div>
+  </footer>
+</body>
+</html>
