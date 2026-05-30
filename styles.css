@@ -112,6 +112,25 @@ li {
   margin-bottom: 0.35rem;
 }
 
+ol {
+  margin: 0 0 1rem;
+  padding-left: 1.25rem;
+  color: var(--muted);
+}
+
+ol li {
+  margin-bottom: 0.5rem;
+}
+
+.cta-link {
+  display: inline-block;
+  padding: 0.75rem 1rem;
+  background: var(--purple-light);
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
 a {
   color: var(--purple);
 }
